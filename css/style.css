@@ -3,11 +3,15 @@
     justify-content: space-between;
     color: #0f65ef;
     font-weight: bold;
-    font-size:15px;
+    font-size:30px;
+    border: solid 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
 }
 
 .logo {
-    width: 125px;
+    width: 200px;
 }
 
 body {
@@ -25,18 +29,36 @@ body {
     font-size: 20px;
 }
 
-#tomImg {
+#vaughnImg {
     border-radius: 50%;
-    width: 50px;
+    width: 35px;
+    height: 32px;
 }
 
 a {
     color: #0f65ef;
     font-weight: bold;
 }
-
+#search {
+    text-align: center;
+    background-color: #0f65ef;
+    border:solid black 5px;
+}
 #tom {
     color: grey;
+}
+#button {
+    background-color: yellow;
+    color: black;
+    font-family: 'Unlock', cursive;
+    border: solid 3px yellow;
+    border-radius: 40px;
+}
+.answers {
+    background-color: yellow;
+    border: solid yellow 5px;
+    border-radius: 20px;
+    text-align: center;
 }
 
 .result {
