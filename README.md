@@ -36,7 +36,7 @@ Make sure to check off your items as you complete them. [ ] => [x]
 - [ ] Push your changes!
 
 ## Extensions
-- [ ] Update the HTML and CSS to reflect your own style.
-- [ ] Change the theme of the quiz.
+- [x] Update the HTML and CSS to reflect your own style.
+- [x] Change the theme of the quiz.
 - [ ] Add more questions to your quiz.
 - [ ] Update the function that displays the result so it displays an image in addition to the user-specific placement details.
